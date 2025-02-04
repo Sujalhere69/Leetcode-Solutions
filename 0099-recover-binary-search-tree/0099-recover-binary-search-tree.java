@@ -1,42 +1,46 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-    public void recoverTree(TreeNode root) {
-        List<Integer> list = new ArrayList<>();
-        inorder(list,root);
-        List<Integer> sorted = new ArrayList<>(list);
-        Collections.sort(sorted);
-        inorderSort(root,sorted);
-    }
-    public void inorder(List<Integer> list ,TreeNode root){
-        if(root==null){
-            return;
-        }
-        inorder(list , root.left);
-        list.add(root.val);
-        inorder(list,root.right);
-    }
-       private int index = 0;
+    private TreeNode first, middle, last, prev;
 
-    private void inorderSort(TreeNode root, List<Integer> sorted) {
+    public void recoverTree(TreeNode root) {
+        first = middle = last = null;
+        prev = new TreeNode(Integer.MIN_VALUE);
+        
+        // Step 1: In-order traversal to identify swapped nodes
+        inorder(root);
+
+        // Step 2: Swap the incorrect nodes
+        if (first != null && last != null) {
+            // Case 1: Two non-adjacent nodes swapped
+            int temp = first.val;
+            first.val = last.val;
+            last.val = temp;
+        } else if (first != null && middle != null) {
+            // Case 2: Two adjacent nodes swapped
+            int temp = first.val;
+            first.val = middle.val;
+            middle.val = temp;
+        }
+    }
+
+    private void inorder(TreeNode root) {
         if (root == null) {
             return;
         }
-        inorderSort(root.left, sorted);
-        root.val = sorted.get(index++);  // Update tree node value
-        inorderSort(root.right, sorted);
+
+        // Inorder traversal (Left -> Root -> Right)
+        inorder(root.left);
+
+        // Identify swapped nodes
+        if (prev != null && prev.val > root.val) {
+            if (first == null) {
+                first = prev;
+                middle = root; // Possible adjacent swap
+            } else {
+                last = root; // Non-adjacent swap
+            }
+        }
+        prev = root; // Update previous node
+        
+        inorder(root.right);
     }
 }
