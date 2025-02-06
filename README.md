@@ -59,6 +59,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Stack
 |  |
@@ -107,6 +108,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## String
 |  |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
