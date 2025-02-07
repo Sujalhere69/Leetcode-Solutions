@@ -17,6 +17,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Divide and Conquer
@@ -112,6 +113,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## String
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 ## Counting
 |  |
 | ------- |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Recursion
 |  |
