@@ -31,6 +31,7 @@ class Solution {
             // If there was a previous node, adjust its pointers
             if (prev != null) {
                 prev.left = null;  // Set the left pointer to null (flattening)
+                
                 prev.right = current; // Connect the previous node to the current node
             }
             
