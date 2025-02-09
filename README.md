@@ -35,6 +35,7 @@
 | [0112-path-sum](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -54,6 +55,7 @@
 | [0112-path-sum](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -81,6 +83,7 @@
 | [0112-path-sum](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -112,6 +115,7 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
