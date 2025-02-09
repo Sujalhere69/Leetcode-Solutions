@@ -134,6 +134,7 @@
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
+| [1714-rearrange-spaces-between-words](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1714-rearrange-spaces-between-words) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Design
