@@ -1,42 +1,23 @@
-import java.util.*;
-
 class Solution {
     public TreeNode reverseOddLevels(TreeNode root) {
-        if (root == null) {
-            return null;
-        }
-
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.add(root);
-        int level = 0;
-
-        while (!queue.isEmpty()) {
-            int size = queue.size();
-            List<TreeNode> nodesAtLevel = new ArrayList<>();
-
-            // Process all nodes at the current level
-            for (int i = 0; i < size; i++) {
-                TreeNode node = queue.poll();
-                if (level % 2 != 0) {  // Store nodes of odd levels
-                    nodesAtLevel.add(node);
-                }
-                if (node.left != null) queue.add(node.left);
-                if (node.right != null) queue.add(node.right);
-            }
-
-            // Reverse values at odd levels
-            int left = 0, right = nodesAtLevel.size() - 1;
-            while (left < right) {
-                int temp = nodesAtLevel.get(left).val;
-                nodesAtLevel.get(left).val = nodesAtLevel.get(right).val;
-                nodesAtLevel.get(right).val = temp;
-                left++;
-                right--;
-            }
-
-            level++; // Move to the next level
-        }
-
+        // if (root == null || root.left == null || root.right == null) 
+        //     return root;
+        
+        levelTraverse(root.left, root.right, 0);
         return root;
+    }
+
+    private void levelTraverse(TreeNode node1, TreeNode node2, int level) {
+        if (node1 == null || node2 == null)
+            return;
+        
+        if (level % 2 == 0) {
+            int val = node1.val;
+            node1.val = node2.val;
+            node2.val = val;
+        }
+
+        levelTraverse(node1.left, node2.right, level + 1);
+        levelTraverse(node1.right, node2.left, level + 1);
     }
 }
