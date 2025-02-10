@@ -33,6 +33,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
@@ -54,6 +55,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
@@ -84,6 +86,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
@@ -163,4 +166,8 @@
 |  |
 | ------- |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1561-rearrange-words-in-a-sentence) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
