@@ -135,6 +135,7 @@
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
+| [1561-rearrange-words-in-a-sentence](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1714-rearrange-spaces-between-words](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1714-rearrange-spaces-between-words) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -158,4 +159,8 @@
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3447-clear-digits) |
+## Sorting
+|  |
+| ------- |
+| [1561-rearrange-words-in-a-sentence](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1561-rearrange-words-in-a-sentence) |
 <!---LeetCode Topics End-->
