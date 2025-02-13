@@ -10,6 +10,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3447-clear-digits) |
 ## Sorting
@@ -178,4 +180,8 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
