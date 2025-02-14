@@ -8,6 +8,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0189-rotate-array](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -139,6 +140,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## String
 |  |
@@ -158,6 +160,7 @@
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -191,4 +194,12 @@
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
