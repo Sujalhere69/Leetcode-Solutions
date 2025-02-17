@@ -8,6 +8,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0189-rotate-array](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -21,6 +22,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1160-letter-tile-possibilities](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2487-optimal-partition-of-string](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2487-optimal-partition-of-string) |
@@ -152,6 +154,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [1160-letter-tile-possibilities](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1714-rearrange-spaces-between-words](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1714-rearrange-spaces-between-words) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -185,6 +188,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1561-rearrange-words-in-a-sentence) |
 ## Backtracking
 |  |
