@@ -155,6 +155,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0214-shortest-palindrome](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -230,4 +231,16 @@
 | [0979-di-string-match](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2487-optimal-partition-of-string](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2487-optimal-partition-of-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
