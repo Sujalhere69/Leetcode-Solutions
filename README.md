@@ -12,6 +12,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1524-string-matching-in-an-array](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -164,6 +165,7 @@
 | [1160-letter-tile-possibilities](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1524-string-matching-in-an-array](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1714-rearrange-spaces-between-words](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1714-rearrange-spaces-between-words) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -239,6 +241,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+| [1524-string-matching-in-an-array](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
