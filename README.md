@@ -15,6 +15,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2107-find-unique-binary-string](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
@@ -29,6 +30,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2487-optimal-partition-of-string](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Divide and Conquer
@@ -170,6 +172,7 @@
 | [1714-rearrange-spaces-between-words](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1714-rearrange-spaces-between-words) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2487-optimal-partition-of-string](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2487-optimal-partition-of-string) |
@@ -210,6 +213,7 @@
 | [0257-binary-tree-paths](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2107-find-unique-binary-string](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Heap (Priority Queue)
 |  |
