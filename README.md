@@ -11,6 +11,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0979-di-string-match](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1306-minimum-absolute-difference](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [1306-minimum-absolute-difference](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1561-rearrange-words-in-a-sentence) |
 ## Backtracking
