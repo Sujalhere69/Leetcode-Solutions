@@ -16,6 +16,7 @@
 | [1306-minimum-absolute-difference](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1524-string-matching-in-an-array](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -139,6 +140,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [0189-rotate-array](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0979-di-string-match](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0979-di-string-match) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2551-apply-operations-to-an-array](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Breadth-First Search
 |  |
@@ -221,6 +224,7 @@
 | [0049-group-anagrams](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [1306-minimum-absolute-difference](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1561-rearrange-words-in-a-sentence) |
 ## Backtracking
 |  |
