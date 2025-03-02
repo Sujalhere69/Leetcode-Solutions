@@ -24,6 +24,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
@@ -41,6 +42,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2487-optimal-partition-of-string](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2487-optimal-partition-of-string) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Divide and Conquer
 |  |
@@ -155,6 +157,7 @@
 | [0979-di-string-match](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2551-apply-operations-to-an-array](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Breadth-First Search
 |  |
 | ------- |
