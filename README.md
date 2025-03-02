@@ -23,6 +23,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2447-merge-similar-items](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2447-merge-similar-items) |
 | [2551-apply-operations-to-an-array](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -41,6 +42,7 @@
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2447-merge-similar-items](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2447-merge-similar-items) |
 | [2487-optimal-partition-of-string](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -232,6 +234,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1561-rearrange-words-in-a-sentence) |
+| [2447-merge-similar-items](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2447-merge-similar-items) |
 ## Backtracking
 |  |
 | ------- |
@@ -291,4 +294,8 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+## Ordered Set
+|  |
+| ------- |
+| [2447-merge-similar-items](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2447-merge-similar-items) |
 <!---LeetCode Topics End-->
