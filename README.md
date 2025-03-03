@@ -24,6 +24,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2447-merge-similar-items](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2447-merge-similar-items) |
 | [2551-apply-operations-to-an-array](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -162,6 +163,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0979-di-string-match](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0979-di-string-match) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Breadth-First Search
@@ -231,6 +233,7 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
