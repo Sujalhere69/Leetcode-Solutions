@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -54,6 +55,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -143,6 +145,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0098-validate-binary-search-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sujalhere69/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
